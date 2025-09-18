@@ -8,7 +8,7 @@ def toBinaryIfNumber(value):
     else:
         return None
 
-user_input = input("Enter a value: ")g
+user_input = input("Enter a value: ")
 
 if isPalindrome(user_input):
     print("Input is a palindrome: True")
